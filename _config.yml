@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/limsuh"
+baseurl: ""
 url: "https://limsuh.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
