@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/limsuh"
-url: "limsuh.github.io"
+url: "https://limsuh.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Type on Strap                                    # site's title
