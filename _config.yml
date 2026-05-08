@@ -1,20 +1,20 @@
 # Site settings
-title: Chansoo Son
-description: 'Software Engineer'
-url: 'https://sonchansoo.github.io'
+title: Suhyeon Lim
+description: 'AI & Software Engineer'
+url: 'https://LimSuH.github.io'
 baseurl: ''
-profilepic: '/images/sonchansoo.jpg'
+profilepic: '/images/LimSuH.jpg'
 bkimage: '/images/bk2.png'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Chansoo Son'
-  email: thsct01@gmail.com
+  name: 'Suhyeon Lim'
+  email: limsu916@gmail.com
   mastodon: 
   twitter_username: 
 #  facebook_username: joshgerdes
-  github_username:  sonchansoo
+  github_username:  LimSuH
   linkedin_username:  
   meetup_name: 
 
