@@ -42,7 +42,7 @@
       desc: |
         this is test sentence.
 
-- name: [과학기술정보통신부 창의도전R&D] 광범위한 일반화 능력을 지닌 범용 로봇 인공지능 연구 및 검증 체계 구축
+- name: '['과학기술정보통신부 창의도전R&D']' 광범위한 일반화 능력을 지닌 범용 로봇 인공지능 연구 및 검증 체계 구축
   gh_user: tzuehlke
   repo: snowflake
   img: https://blog.zuehlke.cloud/wp-content/uploads/2023/05/snowflake-logs.png
