@@ -22,7 +22,7 @@
 
 
 # projects section data
-- name: test if is this problem?
+- name: [국립재활원 재활로봇중개연구사업] 운동학습 모델을 적용한 맞춤형 일상재활 로봇을 위한 운동 평가 및 피드백 인공지능 시스템 개발
   gh_user: LimSuH
   repo: AzurePAYGPrices
   media:
