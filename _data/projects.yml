@@ -34,7 +34,13 @@
     - img: /images/projects/NRC/models.png
     - img: /images/projects/NRC/question.png
     - img: /images/projects/NRC/usability.png
-    
+
+  sections:
+    - title: 개요
+      content: |
+        This is test sentence.
+      desc: |
+      this is test sentence.
 
 - name: [과학기술정보통신부 창의도전R&D] 광범위한 일반화 능력을 지닌 범용 로봇 인공지능 연구 및 검증 체계 구축
   gh_user: tzuehlke
