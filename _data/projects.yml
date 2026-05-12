@@ -1,10 +1,42 @@
-# projects section data
-- name: A repo with workflow, that downloads the current Pay-As-You-Go prices from Azure once a month and saves them in ~40MB files
-  gh_user: tzuehlke
-  repo: AzurePAYGPrices
-  img: https://blog.zuehlke.cloud/wp-content/uploads/2024/04/AzureCostExportPAYG-Overview-945x293.png
+# ============================================
+# 프로젝트 목록 - 여기서 글(이름, 설명) 수정
+# ============================================
+# name: 프로젝트 제목
+# img: 카드 썸네일용 사진 1장 (필수)
+# video: (선택) 카드용 영상 1개. 있으면 카드에 영상 표시
+#
+# [상세 화면용 - 여러 개 가능]
+# media: 상세 화면에 나올 사진/영상 목록 (순서대로)
+#   - image: /images/projects/파일.jpg
+#   - video: https://www.youtube.com/embed/비디오ID  또는  /videos/projects/demo.mp4
+#
+# sections: 상세 화면에 나올 설명 단락들 (제목 선택, 내용 마크다운)
+#   - title: 단락 제목 (선택)
+#     content: |
+#       내용...
+#   - content: |   (제목 없이 단락만)
+#       내용...
+#
+# (media/sections 없으면 기존처럼 img, video, desc 사용)
+# ============================================
 
-- name: A regular rebuild and hosting of the TOR snowflake project (to provide access to censored websites)
+
+# projects section data
+- name: [국립재활원 재활로봇중개연구사업] 운동학습 모델을 적용한 맞춤형 일상재활 로봇을 위한 운동 평가 및 피드백 인공지능 시스템 개발
+  gh_user: LimSuH
+  repo: AzurePAYGPrices
+  media:
+    - video: https://youtu.be/nLSHNWC5FOk?si=s6i34hKRsBEuZ6Au
+    - img: /images/projects/NRC/Structure.png
+    - img: /images/projects/NRC/progress.png
+    - img: /images/projects/NRC/application.png
+    - img: /images/projects/NRC/data_distribution.png
+    - img: /images/projects/NRC/models.png
+    - img: /images/projects/NRC/question.png
+    - img: /images/projects/NRC/usability.png
+    
+
+- name: [과학기술정보통신부 창의도전R&D] 광범위한 일반화 능력을 지닌 범용 로봇 인공지능 연구 및 검증 체계 구축
   gh_user: tzuehlke
   repo: snowflake
   img: https://blog.zuehlke.cloud/wp-content/uploads/2023/05/snowflake-logs.png
